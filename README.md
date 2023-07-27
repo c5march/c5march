@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @c5march
-- 👀 I’m interested in chocolatier and crypto
+- 👀 I’m interested in chocolate and crypto
 
 
 <!---
