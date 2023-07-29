@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @c5march
 - 👀 I’m interested in chocolate and crypto
-- its my life
+- its my life and love
 
 <!---
 c5march/c5march is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
